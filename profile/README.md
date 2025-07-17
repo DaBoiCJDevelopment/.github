@@ -1,9 +1,8 @@
-# CFi Developments
-Welcome to **CFi Developments**!
+# DaBoiCJ Development
 
-## What We Do
-CFi Developments focuses on:
-1. **Improving software** through our **FOSS Improvement Project**, where we enhance open-source projects and submit pull requests to contribute to the FOSS world.
+This organization represents me, @TheBoiCJ
+Assume that if this organization does a action, it is me.
+Why do this, You may ask?
+Because, I want a unified front.
 
-## Contact Us
-For inquiries, email us at mail@cjsprojects.com.
+This document is still WIP
