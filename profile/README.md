@@ -1,6 +1,6 @@
 # DaBoiCJ Development
 
-This organization represents me, @TheBoiCJ
+This organization represents me, DaBoiCJ
 Assume that if this organization does a action, it is me.
 Why do this, You may ask?
 Because, I want a unified front.
